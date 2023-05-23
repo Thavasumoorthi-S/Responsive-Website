@@ -1,5 +1,5 @@
 body{
-    background-color:burlywood;
+    background-color:rgb(222, 184, 135);
 }
 /* (min-width:320px) and (max-width:480px) */
 @media  (min-width:320px) and (max-width:480px) {
@@ -10,7 +10,7 @@ body{
    .main .firstcontainer .cont1{
     margin:10px;
     height:80px;
-    background-color:blue ;
+    background-color:rgb(0, 0, 255) ;
    }
    .main .firstcontainer .cont2{
     margin:10px;
@@ -44,17 +44,17 @@ body{
    .main .footer{
     margin:10px;
     height:80px;
-    background-color:darkslateblue;
+    background-color:rgb(72, 61, 139);
    }
    h1{
     text-align: center;
-    color:white;
+    color:rgb(255, 255, 255);
    }
 
    ul li{
     list-style-type: none;
     padding: 5px;
-    color:white;
+    color:rgb(255, 255, 255);
    }
    ul{
     display: flex;
@@ -66,15 +66,15 @@ body{
   
    }
    ul li:hover{
-    background-color:blue;
-    color:white;
+    background-color:rgb(0, 0, 255);
+    color:rgb(255, 255, 255);
     width:80%;
     margin-right: 5%;
    }
    .footer p{
     text-align: center;
     padding-top:10px;
-    color:white;
+    color:rgb(255, 255, 255);
    }
    img{
     width: 100%;
@@ -90,7 +90,7 @@ body{
     .main .firstcontainer .cont1{
      margin:10px;
      height:80px;
-     background-color:blue;
+     background-color:rgb(0, 0, 255);
     }
     .main .firstcontainer .cont2{
      margin:10px;
@@ -125,25 +125,25 @@ body{
    .main .footer{
     margin:10px;
     height:80px;
-    background-color:darkslateblue;
+    background-color:rgb(72, 61, 139);
    }
    h1{
     text-align: center;
-    color:white;
+    color:rgb(255, 255, 255);
    }
    ul li{
     list-style-type: none;
     display:inline;
     padding-left: 7%;
-    color:white;
+    color:rgb(255, 255, 255);
    }
    li:hover{
-    color:white;
+    color:rgb(255, 255, 255);
    }
    .footer p{
     text-align: center;
     padding-top:10px;
-    color:white;
+    color:rgb(255, 255, 255);
    }
 
    img{
@@ -161,7 +161,7 @@ body{
     margin:10px;
     height:90px;
     width:98%;
-    background-color:blue;
+    background-color:rgb(0, 0, 255);
    }
    .main .firstcontainer .cont2{
     margin:10px;
@@ -200,26 +200,26 @@ body{
    .main .footer{
     margin:10px;
     height:80px;
-    background-color:darkslateblue;
+    background-color:rgb(72, 61, 139);
    }
    h1{
     text-align: center;
-    color:white;
+    color:rgb(255, 255, 255);
    }
    ul li{
     list-style-type: none;
     display:inline;
-    color:cyan;
+    color:rgb(0, 255, 255);
     padding-left: 15%;
 
    }
    li:hover{
-    color:white;
+    color:rgb(255, 255, 255);
    }
    .footer p{
     text-align: center;
     padding-top:10px;
-    color:white;
+    color:rgb(255, 255, 255);
    }
    img{
     width: 100%;
